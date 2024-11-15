@@ -1,0 +1,6 @@
+ctrl+shift+p - show all commands
+ctrl+o - open file
+ctrl+k or ctrl+o - open folders
+ctrl+r   - recent folders
+ctrl(-) --- zoom in ctrl (+) zoom out
+p*10 enter click cheste 10 vasatahy
